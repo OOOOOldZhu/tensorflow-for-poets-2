@@ -44,6 +44,7 @@ public class ImageClassifier {
 
   /** Name of the model file stored in Assets. */
   private static final String MODEL_PATH = "graph.lite";
+//  private static final String MODEL_PATH = "posnet_lite.lite";
 
   /** Name of the label file stored in Assets. */
   private static final String LABEL_PATH = "labels.txt";
